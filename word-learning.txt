@@ -1,0 +1,245 @@
+﻿threshold   阀值
+correlation coefficient   相关系数
+leverage    杠杆
+cumulative  累积的 
+Linear Algebra   #线性代数
+Matrix views and derivatives  矩阵视图和衍生工具
+derivative   导数
+1-dimensional Clustering   一维矩阵
+accurate  精确
+deprecated  被使用
+Gibbs Sampling to Collapsed Variational Bayes  吉布斯抽样到贝叶斯
+gigabyte  十亿字节
+throughput  吞吐量
+isotonic regression  保序回归
+stochastic：随机
+For the sake of simplicity  为了简单起见
+steepest descent 最速下降
+hold-out：坚持
+object function目标函数
+formulations函数
+supervised有监督的
+
+
+
+
+Basic statistics
+summary statistics汇总统计
+stratified sampling分层抽样
+hypothesis testing假设检验
+random data generation随机数据生成
+
+Classification and regression
+ensembles of trees (Random Forests and Gradient-Boosted Trees)：集合树
+SVMs ：支持向量机
+logsistic regression：逻辑回归
+linear regression：线性回归
+decisions trees：决策树
+naive Bayes：朴素贝叶斯
+
+Dimensionality reduction ：降维
+singular value decomposition (SVD)：奇异值分解
+principal component analysis (PCA)：主成分分析
+
+Feature Extraction：特征选取
+variance：方差
+covariance：协方差
+
+
+Description	Resource	Path	Location	Type
+CoreException: Could not get the value for parameter compilerId for plugin execution default-compile: PluginResolutionException: Plugin org.apache.maven.plugins:maven-compiler-plugin:3.1 or one of its dependencies could not be resolved: Failure to transfer org.codehaus.plexus:plexus-utils:jar:1.5.1 from http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer artifact org.codehaus.plexus:plexus-utils:jar:1.5.1 from/to central (http://repo.maven.apache.org/maven2): The operation was cancelled.	pom.xml	/mahout-examples	line 23	Maven Project Build Lifecycle Mapping Problem
+
+
+Pearson
+
+
+dense：密集
+sparse：稀疏的
+indices:指数
+
+entropy:熵
+dimension  维度
+
+gradient:梯度
+updater
+
+Linear Regression问题属于
+Supervised Learning #监督学习
+又称为Classification或归纳学习Inductive Learning
+deviate离差：单项数值与平均值的差；(eg:专家对项目评分，离差的均数称为平均离差，平均离差反映每个专家的平均非共识程度)
+
+
+=================
+满秩矩阵
+
+用初等行变换将矩阵A化为阶梯形矩阵，则矩阵中非零行的个数就定义为这个矩阵的秩记为r(A)
+
+满秩矩阵(non-singular matrix):设A是n阶矩阵，若r(A)=n,则称A为满秩矩阵。
+若矩阵等于行数，称为行满秩；若矩阵秩等于列数，称为列满秩。
+即是行满秩又是列满秩则为n阶矩阵即n阶方阵。
+
+满秩矩阵是一个矩阵是否可逆的充分必要条件
+
+非奇异矩阵是满秩矩阵。
+
+
+
+likelihood  相似度
+Quadratic Programming 二次规划
+
+Dual Variable  双变量
+Lagrange 拉格朗日[l??ɡrɑnd?, lɑ?ɡrɑ??]
+
+
+
+
+
+=============================
+reinvent 重塑
+
+gaggle 鹅群
+a gaggle of一群
+no wonder难怪
+blemishes瑕疵
+revolution革命
+disk磁盘
+notions观念
+anticipation预期
+there just wasn't that much data to crunch处理
+fraction分数
+a fraction of 一小部分
+penny便士
+surge浪涌
+latent潜在的
+
+workarounds解决方法
+
+
+
+basic linear algebra subprograme 基本线性代数子程序
+churning搅动
+parallelism 平行度
+single-threaded nature单线程性质
+boost升压
+tone音
+first up首先
+reach us联系我们
+bribe贿赂
+straight 直接的
+as of 截至
+Seamlessly 无缝
+mature成熟
+Comprehensive R Archive Network(CRAN)综合R档案网络
+simulation模拟
+snow：Simple Network of Workstations
+mechanisms机制
+bootstrap引导；自益；自举；解靴带
+arrange安排
+interpretation 理解；解释；翻译；演绎
+converges收敛
+beware of 提防
+additional额外的
+leak 透露，泄漏
+corpus  语料库
+neat 整洁的
+
+
+axes轴
+quadratic function二次函数
+======================================================
+Hypothesized class假设类
+
+vertex 顶点
+triangle 角
+
+fewer traingles weaker community 弱势群体
+more traingles stronger community
+
+图并行计算框架：Pregel、Giraph、GraphLab 
+
+coerced 强迫，强制
+
+formula公式
+binomial二项式
+allocate分配
+tabulate制表，排表。有平面的
+negative indices负指数
+semantics 语义
+slicing 切片
+arbitrary 任意
+column-wise 列优先
+discrete 离散
+exponential 指数
+probability distributions 概率分布
+parabola 抛物线
+quasi-Newton method 准牛顿方法
+deviance residuals 偏差/残差(测量值与算数平均值之差)
+coefficients 系数
+estimate 估计
+weighted instances 加权实例
+gear连接的，齿轮。
+be arbitrarily keyed.：任意键
+presume 假定
+hierarchy 层次结构
+analogous 类似的
+non-critical 非关键
+criteria 标准
+tabulate 制表
+cross product交叉乘积
+quasi binomial 准二项分布(用残差/残差自由度>1的话是过度离散，就用准二项分布代替二项分布)
+quasi poisson 准泊松分布(和准二项分布一样，过度离散用准poisson分布代替poisson分布)
+Directed Acyclic Graph (DAG)
+penalty惩罚
+non-trivial 非平凡的
+hybrid 混合
+intuitive 直观
+leveraging 利用
+paradigm 范例，典范，样式，模范。
+emerged 出现，浮现，形成
+workloads 工作负载
+facilitate their asynchronous 方便他们异步
+commutation-intensive workloads 换向密集型工作负载
+speed-up 提速
+shard 分片 碎片
+be shipped back to 被运回到
+state-of-the-art 使用最先进技术的; 体现最高水平的
+out-of-the-box 一些，即时可用
+depicts 描绘，描述，描画
+numerous 众多
+whereas 然而，反之
+segmented 分段的，分开的
+emphasize 强调
+low-latency 低潜伏期
+straghtforward 直接了当地，坦率的
+outperform 超越，比…做得好
+propose 打算，计划；求婚；提议。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
