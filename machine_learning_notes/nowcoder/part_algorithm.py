@@ -164,3 +164,64 @@ def decision_tree():
         last = len(tree)
         print level+1,len(tree)
     return tree
+#use gradient_descent to get theta
+def calCoefficient(data,listA,listW, listLostFunction):
+    N = len(data[0]) #dimenson
+    w = [0 for i in range(N)]
+    wNew = [0 for i in range(N)]
+    g = [0 for i in range(N)]
+
+    times = 0
+    alpha = 100.0  #learn_rate or step_size
+    while times < 10000:
+        j = 0
+        while j < N:
+            g[j] = gradient(data, w, j)
+            j += 1
+        normalize(g) #regular_gradient
+        alpha = calcAlpha(w, g, alpha, data)    
+        numberProduct(alpha, g, wNew)
+
+        print "times,alpha,fw,w,g:\t",times, alpha, fw(w,data),w,g
+        if isSame(w, wNew):
+            break
+        assign2(w,wNew)
+        times += 1
+
+        listA.append(alpha) # list in order to draw a picture
+        listW.append(assign(w))
+        listLostFunction.append(fw(w,data))
+    return w    
+
+#use A criteria to get learn rate(step_size)
+#w: current value
+#g: current gradient direction
+#a: current learn_rate
+def calAlpha(w,g,a,data):
+    c1 = 0.3
+    now = fw(w,data)
+    wNext = assign(w)
+    numberProduct(a,g,wNext)
+    next = fw(wNext, data)
+    # looking for a large enough,so that h(a)>0
+    count = 30
+    while next < now:
+        a *= 2
+        wNext = assign(w)
+        numberProduct(a, g, wNext)
+        next = fw(wNext, data)
+        count -= 1
+        if count == 0
+            break
+    #looking for suitable learn_rate -> a
+    count = 50
+    while next > now - c1 * a * dotProduct(g,g):
+        a /= 2
+        wNext = assign(w)
+        numberProduct(a, g, wNext)
+        next = fw(wNext, data)
+
+        count -= 1
+        if count == 0:
+            break
+    return a
