@@ -19,6 +19,28 @@ hold-out：坚持
 object function目标函数
 formulations函数
 supervised有监督的
+bottleneck 瓶颈
+budget 预算
+scale out 规模
+dozens of 几十，一打(12个)
+higher-order 高阶
+leave out 忽略
+perspectives 观点
+no doubt 毫无疑问
+billions 十亿
+proposed by 被...提出
+acquisitions 获得；收购
+state of art 业界标准；最优；艺境
+outperforms 优于
+novel 小说；新法；新奇的；异常的
+inference on 推理；推论；推断
+probit概率
+feed-forward 前馈
+make up of 组成；弥补
+rectify 整顿；矫正
+prior 先前的
+posterior 后面的
+
 
 
 
@@ -42,19 +64,17 @@ singular value decomposition (SVD)：奇异值分解
 principal component analysis (PCA)：主成分分析
 
 Feature Extraction：特征选取
-variance：方差
-covariance：协方差
-
-
-Description	Resource	Path	Location	Type
-CoreException: Could not get the value for parameter compilerId for plugin execution default-compile: PluginResolutionException: Plugin org.apache.maven.plugins:maven-compiler-plugin:3.1 or one of its dependencies could not be resolved: Failure to transfer org.codehaus.plexus:plexus-utils:jar:1.5.1 from http://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer artifact org.codehaus.plexus:plexus-utils:jar:1.5.1 from/to central (http://repo.maven.apache.org/maven2): The operation was cancelled.	pom.xml	/mahout-examples	line 23	Maven Project Build Lifecycle Mapping Problem
-
+variance 方差
+covariance 协方差
+constant 不断的
 
 Pearson
 
 
 dense：密集
 sparse：稀疏的
+suboptimal 不最理想的；不最满意的
+
 indices:指数
 
 entropy:熵
