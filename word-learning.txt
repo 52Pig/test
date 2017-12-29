@@ -233,6 +233,71 @@ low-latency 低潜伏期
 straghtforward 直接了当地，坦率的
 outperform 超越，比…做得好
 propose 打算，计划；求婚；提议。
+=====================================
+
+massive:大量的，重的
+enormous userfacing impact：对用户影响巨大
+corpus：语料库
+robust：稳健
+conjugation：共轭，结合
+In contrast to与...相比
+retrieved 恢复
+demographics  人口统计学的
+linearly 线性的
+sophisticated 复杂的
+in existence 存在
+dramatic 受人瞩目的，戏剧性的
+retrieval dichotomy 二分法检索
+classic 经典
+two-stage 两级
+candidate 候选
+generation 生成
+separate 单独的
+massive 大量的
+enormous 巨大的，庞大的；极饿的，凶暴的；
+abstract 摘要
+insights 领悟；洞悉；顿悟
+ever-growing 不断增长的
+immense 巨大的
+illustrates 表明
+billion 百亿
+Freshness 新鲜
+responsive：反应敏捷的
+robust 稳健的
+conjugation 共轭
+undergone 经历
+fundamental paradigm基本范式
+shift 转移
+in contrast to相比之下
+
+
+
+
+
+
+
+
+
+http://www.cnblogs.com/WCFGROUP/p/7692243.html
+http://www.cnblogs.com/wuzhitj/p/6434171.html
+https://www.zhihu.com/question/35821566
+http://m.blog.csdn.net/a790209714/article/details/74009135
+https://github.com/multiangle/tfword2vec/blob/master/main.py
+https://github.com/dmesquita/understanding_tensorflow_nn
+https://www.leiphone.com/news/201704/HE5REPagoVlzEEI0.html
+http://blog.csdn.net/Jerr__y/article/details/70471066
+# go的w2v实现
+https://github.com/alexandres/lexvec/blob/master/lexvec.go
+# 
+The Elements of Statistical Learning
+# 
+https://www.cnblogs.com/sxron/articles/5836000.html
+# sklearn 特征hash方法
+http://sklearn.lzjqsdd.com/modules/feature_extraction.html
+# 阿里tensorflow与开源tensorflow的区别
+https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.8366600.0.0.4a4af04f4vaBDO&raceId=&postsId=3644
+# 特征处理py
+https://www.cnblogs.com/5poi/p/7240601.html
 
 
 
