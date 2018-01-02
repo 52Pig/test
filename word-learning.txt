@@ -298,8 +298,8 @@ http://sklearn.lzjqsdd.com/modules/feature_extraction.html
 https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.8366600.0.0.4a4af04f4vaBDO&raceId=&postsId=3644
 # 特征处理py
 https://www.cnblogs.com/5poi/p/7240601.html
-
-
+# ctr预估中的特征处理
+http://m.blog.csdn.net/supinyu/article/details/52351465
 
 
 
