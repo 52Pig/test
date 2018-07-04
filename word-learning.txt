@@ -269,6 +269,125 @@ undergone 经历
 fundamental paradigm基本范式
 shift 转移
 in contrast to相比之下
+================================================================================
+U.S. Department of Defense : 美国国防部
+co-sponsored：共同赞助
+retinitis pigmentosa：视网膜色素变性
+Tapering：尖细
+pigmentosa：色素
+retinitis：视网膜炎
+concrete：具体的
+ClinicalTrials：临床试验
+Compliment 称赞
+stem cell  干细胞
+tackled  解决了
+Reference Answers.  参考答案
+assessors   评审员
+insulin  胰岛素
+pin 针；钉住；抓住
+Osteogenesis Imperfecta  成骨不全；
+genetic testing  基因检测；
+Problem、DrugSupplement、Food、ProcedureDevice、Substance
+anatomy  解剖
+
+sevoflurane is stable when stored under normal room lighting conditions.
+No discernible degradation of sevoflurane occurs in the presence of strong acids or heat.
+Sevoflurane is not corrosive to stainless steel,brass,aluminum nickel-plated brass, chrome-plated brass
+or copper beryllium alloy.
+
+abetalipoproteimemia  脂蛋白血症
+keen to  热衷于
+kapvay  盐酸可乐定缓释片
+suites sulfates sulfa  硫酸磺酸盐
+allergic  过敏的
+irrelevant  无关的
+additional   额外的；附加的；
+annotations  注解
+dosage  剂量
+lewy body dementia  路易体痴呆
+lewy body disease  路易体病
+dreadful  可怕的disease
+alzheimer 阿尔茨海默病；老年痴呆症
+dementia  痴呆
+symptoms 征兆；症状
+alertness 警觉；戒心
+hallucinations  幻觉（因吸毒或患病）
+stiffness  僵硬；顽固
+confusion  混乱；困惑
+parkinson's disease and alzheimer's disease  帕金森病和阿尔茨海默病
+Nationnal Institute of Neurological Disorders and Stroke  全国 国际神经系统疾病和卒中研究所
+sponsor  赞助；赞助商
+breach  违背； 破坏
+eligibility  资格
+in bankruptcy  破产中
+household  家庭
+resident   居民
+submit up  提交
+adhere 粘附
+incorporate 并入
+leaderboard 排行榜
+manner  方式；态度
+intellectual property  知识产权
+the avoidance of doubt  避免怀疑
+deemed  认为；相信
+solely 唯一地
+rectify 整顿
+discretion 酌情
+sevoflurane  七氟醚
+expiration  到期；呼气；截止
+toxicity  毒性；毒力
+lipid  脂质
+emulsion  乳化液；乳剂
+caprylic  辛酸的；羊脂酸的
+triglyceride  甘油三酯
+rats 胡扯；大老鼠；in rats
+anesthetic  麻醉剂
+consecutive  连续
+vial  小瓶；小玻璃瓶；药水瓶；郁积的情绪
+discernible  可辨别的
+degradation  恶化；堕落；潦倒；毁坏
+acids  酸；酸味物质
+heat 热
+corrosive  腐蚀性
+in the presence of strong acids or heat. 在强酸、强热存在下
+No discernible degradation of sevoflurane 七氟醚没有明显降解
+stainless steel  不锈钢
+brass  黄铜
+aluminum  铝
+nickle-plated brass  镀镍黄铜
+chrome-plated brass  镀铬黄铜
+copper beryllium alloy  铜铍合金
+substance  物质
+Dual  二重的；双数
+entailment  需要；限定继承
+Paraphrase  释义；改述；
+Identification  识别；鉴定
+bidirectional  双向的
+premise  前提；假设；
+clue  线索
+decomposes  
+
+A Neural Dual Entailment Approach for Question Paraphrase Identification
+一种用于疑问复述识别的神经双蕴涵方法
+一种用于问题释义识别的神经双重蕴含方法
+
+East China Normal University 华东师范大学
+East China Normal University ECNU  华东师范大学电子技术学院
+Philips Research North America PRNA USA  飞利浦北美国研究所
+restrict  限制
+insights  洞察力
+relevance  相关性
+discrepancies  差异
+In contrast 相反
+linguistic  语言的；语言学的
+overall  总体的
+metric  度量的；距离的；度量标准
+predictive  预言性的；预测的
+agenda  议程
+Conference General Information  会议综合信息
+Conference Proceedings  会议议程
+ECNU  华东师范大学；简称ICA
+PRNA  飞利浦研究所
 
 
 
@@ -276,8 +395,7 @@ in contrast to相比之下
 
 
 
-
-
+=================================================================================
 http://www.cnblogs.com/WCFGROUP/p/7692243.html
 http://www.cnblogs.com/wuzhitj/p/6434171.html
 https://www.zhihu.com/question/35821566
